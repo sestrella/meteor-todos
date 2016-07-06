@@ -1,5 +1,7 @@
 # Meteor - Todo List
 
+[![Build Status](https://travis-ci.org/sestrella/meteor-todos.svg?branch=master)](https://travis-ci.org/sestrella/meteor-todos)
+
 ## Setup
 
 Install [meteor](https://www.meteor.com/install).
