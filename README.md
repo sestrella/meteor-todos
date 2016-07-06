@@ -1,4 +1,4 @@
-# Meteor - Todo
+# Meteor - Todo List
 
 ## Setup
 
