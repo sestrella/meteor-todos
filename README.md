@@ -22,3 +22,9 @@ meteor mongo
 meteor
 
 ```
+
+## Testing
+
+```
+meteor test --driver-package practicalmeteor:mocha
+```
