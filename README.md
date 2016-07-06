@@ -10,6 +10,12 @@ Install [meteor](https://www.meteor.com/install).
 meteor npm install
 ```
 
+## Database
+
+```
+meteor mongo
+```
+
 ## Running
 
 ```
