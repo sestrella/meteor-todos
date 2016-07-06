@@ -3,9 +3,3 @@ language: node_js
 
 before_install:
   - curl https://install.meteor.com | sh
-
-install:
-  - meteor npm install
-
-script:
-  - meteor test --once --driver-package dispatch:mocha-phantomjs
